@@ -1,0 +1,23 @@
+.page {
+  background-color: #ffd4b3;
+}
+
+.teachers {
+  color: #b37d8b; 
+  font-family: 'Open Sans', sans-serif; 
+  font-size: 34px; 
+  font-weight: 300; 
+  line-height: 40px; 
+  margin: 0 0 16px; 
+  text-align: center;
+}
+
+.teacher-list {
+  color: #b37d8b; 
+  font-family: 'Open Sans', sans-serif; 
+  font-size: 34px; 
+  font-weight: 300; 
+  line-height: 40px; 
+  margin: 0 0 16px; 
+  text-align: center;
+}
